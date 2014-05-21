@@ -1,3 +1,5 @@
+[![Build Status](https://drone.io/github.com/jp74/cms-boilerplate/status.png)](https://drone.io/github.com/jp74/cms-boilerplate/latest)
+
 Django Boilerplate for Django 1.6 with Django CMS 3.0
 =================================
 
