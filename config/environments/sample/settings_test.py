@@ -6,7 +6,7 @@ ALLOW_ROBOTS = False
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'OPTIONS'   : {
+        'OPTIONS': {
             'init_command': 'SET storage_engine=INNODB',
         },
         'NAME': '',
